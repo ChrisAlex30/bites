@@ -1,0 +1,20 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Build artifacts and temporary files
+/build/
+/dist/
+*.log
+*.tmp
+temp/
+
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# IDE specific files
+.vscode/
+.idea/
